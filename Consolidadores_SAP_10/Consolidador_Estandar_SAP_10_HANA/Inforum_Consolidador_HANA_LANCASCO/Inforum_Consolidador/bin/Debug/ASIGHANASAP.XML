@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<Table>
+  <AsigSQLtoSAP>
+    <BDSAP>01CONSOLIDADOGENERAL</BDSAP>
+    <BDSQL>INF_CONSOLIDADOR</BDSQL>
+    <activo>False</activo>
+  </AsigSQLtoSAP>
+</Table>

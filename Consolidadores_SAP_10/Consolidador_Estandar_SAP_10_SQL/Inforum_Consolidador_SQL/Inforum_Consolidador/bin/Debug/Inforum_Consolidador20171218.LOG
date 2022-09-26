@@ -1,0 +1,2 @@
+[ERROR IN] Hora: [17:37:37] [ERROR   ] Hora: [17:37:37] Error: [Violation of PRIMARY KEY constraint PK_CUEXCOMP_1. Cannot insert duplicate key in object dbo.CUEXCOMP. The duplicate key value is (BDSAP03 111010010000).
+The statement has been terminated.]

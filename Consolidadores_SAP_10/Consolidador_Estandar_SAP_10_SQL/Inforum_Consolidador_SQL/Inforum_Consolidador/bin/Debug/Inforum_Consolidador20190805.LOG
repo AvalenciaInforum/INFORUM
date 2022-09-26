@@ -1,0 +1,5 @@
+[ERROR IN] Hora: [7:46:59] [ERROR   ] Hora: [7:46:59] Error: [sql syntax error: incorrect syntax near GROUP: line 59 col 7 (at pos 2304)]
+[ERROR IN] Hora: [7:48:1] [ERROR   ] Hora: [7:48:0] Error: [sql syntax error: incorrect syntax near GROUP: line 59 col 7 (at pos 2304)]
+[ERROR IN] Hora: [7:49:40] [ERROR   ] Hora: [7:49:40] Error: [sql syntax error: incorrect syntax near GROUP: line 59 col 7 (at pos 2304)]
+[ERROR IN] Hora: [7:51:34] [ERROR   ] Hora: [7:51:34] Error: [sql syntax error: incorrect syntax near GROUP: line 59 col 7 (at pos 2304)]
+[ERROR IN] Hora: [7:52:32] [ERROR   ] Hora: [7:52:32] Error: [sql syntax error: incorrect syntax near GROUP: line 59 col 7 (at pos 2304)]

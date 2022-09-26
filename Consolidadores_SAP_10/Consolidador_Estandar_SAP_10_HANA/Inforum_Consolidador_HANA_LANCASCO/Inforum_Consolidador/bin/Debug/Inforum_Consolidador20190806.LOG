@@ -1,0 +1,3 @@
+[ERROR IN] Hora: [10:45:31] [ERROR   ] Hora: [10:45:31] Error: [invalid column name: not included in SELECT DISTINCT column list: T0.ACCOUNTCODE: line 39 col 27 (at pos 1662)]
+[ERROR IN] Hora: [10:47:4] [ERROR   ] Hora: [10:47:4] Error: [invalid column name: not included in SELECT DISTINCT column list: T0.ACCOUNTCODE: line 39 col 27 (at pos 1662)]
+[ERROR IN] Hora: [10:47:58] [ERROR   ] Hora: [10:47:58] Error: [invalid column name: not included in SELECT DISTINCT column list: T0.ACCOUNTCODE: line 39 col 27 (at pos 1662)]

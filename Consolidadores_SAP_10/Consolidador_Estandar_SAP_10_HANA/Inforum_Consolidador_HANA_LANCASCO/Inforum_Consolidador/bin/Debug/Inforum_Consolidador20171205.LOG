@@ -1,0 +1,8 @@
+[ERROR IN] Hora: [17:14:12] [ERROR   ] Hora: [17:14:12] Error: [The object name BOESCHEEVM.TreeTest.dbo.OACT contains more than the maximum number of prefixes. The maximum is 2.]
+[ERROR IN] Hora: [17:18:36] [ERROR   ] Hora: [17:18:36] Error: [The object name BOESCHEEVM.TreeTest.dbo.OACT contains more than the maximum number of prefixes. The maximum is 2.]
+[ERROR IN] Hora: [17:19:45] [ERROR   ] Hora: [17:19:45] Error: [The object name BOESCHEEVM.TreeTest.dbo.OACT contains more than the maximum number of prefixes. The maximum is 2.]
+[ERROR IN] Hora: [17:20:37] [ERROR   ] Hora: [17:20:37] Error: [The object name BOESCHEEVM.TreeTest.dbo.OACT contains more than the maximum number of prefixes. The maximum is 2.]
+[ERROR IN] Hora: [17:21:21] [ERROR   ] Hora: [17:21:21] Error: [The object name BOESCHEEVM.TreeTest.dbo.OACT contains more than the maximum number of prefixes. The maximum is 2.]
+[ERROR IN] Hora: [17:24:16] [ERROR   ] Hora: [17:24:16] Error: [The object name BOESCHEEVM.TreeTest.dbo.CUEXCOMP contains more than the maximum number of prefixes. The maximum is 2.]
+[ERROR IN] Hora: [19:23:49] [ERROR   ] Hora: [19:23:49] Error: [Violation of PRIMARY KEY constraint PK_CUEXCOMP_1. Cannot insert duplicate key in object dbo.CUEXCOMP. The duplicate key value is (BDSAP03 111010010000).
+The statement has been terminated.]

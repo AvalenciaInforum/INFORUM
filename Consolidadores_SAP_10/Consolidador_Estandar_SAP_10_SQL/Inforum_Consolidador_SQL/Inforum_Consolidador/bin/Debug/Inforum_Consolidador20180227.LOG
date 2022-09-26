@@ -1,0 +1,4 @@
+[ERROR IN] Hora: [15:31:51] [ERROR   ] Hora: [15:31:51] Error: [The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.]
+[ERROR IN] Hora: [15:34:15] [ERROR   ] Hora: [15:34:15] Error: [The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.]

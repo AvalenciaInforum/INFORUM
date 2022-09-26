@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<Table>
+  <HANAConnection>
+    <servidor>172.16.4.7:30015</servidor>
+    <compania>INF_CONSOLIDADOR</compania>
+    <usuario_HANA>SYSTEM</usuario_HANA>
+    <password_HANA>01B647483542560117CC1716</password_HANA>
+    <EsLOG>True</EsLOG>
+  </HANAConnection>
+</Table>

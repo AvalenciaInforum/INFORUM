@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <EJECUCION>
+    <ManejaBDLOG>N</ManejaBDLOG>
+    <GrabaSoloErrores>N</GrabaSoloErrores>
+    <Intervalo>1</Intervalo>
+    <HoraInicio>08:00:00</HoraInicio>
+    <HoraFin>23:59:59</HoraFin>
+    <FechaInicio>2000-01-01T00:00:00-06:00</FechaInicio>
+    <FechaUltimaEjecucion>2000-01-02T00:00:00-06:00</FechaUltimaEjecucion>
+    <SMTPServer />
+    <SenderEmail />
+    <SenderPassword />
+    <ReceiverEmail />
+    <ServerProtocol>true</ServerProtocol>
+    <ServerPort />
+  </EJECUCION>
+</DocumentElement>

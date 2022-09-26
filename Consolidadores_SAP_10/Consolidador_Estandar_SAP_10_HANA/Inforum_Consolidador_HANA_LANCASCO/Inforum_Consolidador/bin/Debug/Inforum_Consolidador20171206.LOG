@@ -1,0 +1,6 @@
+[ERROR IN] Hora: [12:15:57] [ERROR   ] Hora: [12:15:57] Error: [Violation of PRIMARY KEY constraint PK_CUEXCOMP_1. Cannot insert duplicate key in object dbo.CUEXCOMP. The duplicate key value is (BDSAP03 111010010000).
+The statement has been terminated.]
+[ERROR IN] Hora: [12:17:28] [ERROR   ] Hora: [12:17:28] Error: [Violation of PRIMARY KEY constraint PK_CUEXCOMP_1. Cannot insert duplicate key in object dbo.CUEXCOMP. The duplicate key value is (BDSAP01 111010010000).
+The statement has been terminated.]
+[ERROR IN] Hora: [15:17:52] [ERROR   ] Hora: [15:17:52] Error: [La conversión del tipo DBNull en el tipo String no es válida.]
+[ERROR IN] Hora: [15:17:58] [ERROR   ] Hora: [15:17:58] Error: [La conversión del tipo DBNull en el tipo String no es válida.]
